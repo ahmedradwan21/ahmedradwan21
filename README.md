@@ -27,7 +27,7 @@ puts "Hi there!\n";
 <br>
 <!-- -->
 <p  align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Tarek+Radwan.;I+have+experience+in+programming+languages;Like+C%2B%2B%2CJava%2CKotlin%2CDart;But+the+most+important+of+which+is+Java."/>
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Tarek+Radwan.;I+have+experience+in+programming+languages;Like+C%2B%2B%2CJava%2CKotlin%2CDart%2CHTML5%2Ccss5;But+the+most+important+of+which+is+Java."/>
 </p>
 
 ## Watch my contributions get eaten by a snake 🐍
