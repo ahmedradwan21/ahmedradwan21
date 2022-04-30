@@ -22,12 +22,12 @@
 
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmed Tarek Radwan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwan" /></p>
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwan" /></p>
 <p align="right">
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amira-zahran&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedradwan21&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwn" /></p>
 
-  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed Tarek Radwan&layout=compact&theme=radical&hide_border=true" alt="Ahmed Tarek Radwan" /></p>
+  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&layout=compact&theme=radical&hide_border=true" alt="Ahmed Tarek Radwan" /></p>
 
 
