@@ -43,6 +43,6 @@ puts "Hi there!\n";
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedradwan21&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwn" /></p>
 
-  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&layout=compact&theme=radical&hide_border=true" alt="Ahmed Tarek Radwan" /></p>
+
 
 
