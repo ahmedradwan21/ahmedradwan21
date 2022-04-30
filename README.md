@@ -19,9 +19,16 @@ puts "Hi there!\n";
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning Frontend & flutter.
-- 👯  looking to collaborate with other content creators.
-- 📫 You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
+-    I’m currently learning Frontend & flutter.
+-    looking to collaborate with other content creators.
+-    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
+-    I'm very very very love programming 🖤
+-    I'm currently learning IT in the EELU university.
+<br>
+<!-- -->
+<p  align="center">
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Tarek+Radwan.;I+have+experience+in+programming+languages;Like+2CC%2B%2B%2CJava%2CHtml5&CSS5%2CKotlin%2CDart;But+the+most+important+of+which+is+Java."/>
+</p>
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
