@@ -45,5 +45,7 @@ puts "Hi there!\n";
 
 
 
-
+<p align="center">Vistors counter ↖ <br>
+  <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
+</p>
 
