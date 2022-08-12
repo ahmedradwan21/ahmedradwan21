@@ -9,7 +9,7 @@ print("Hi there!")
 
 ### Hi, I'm Ahmed Tarek Radwan 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Amira-Zahran?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/ahmedradwan21?label=Follow&style=social)
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.cioinsight.com/wp-content/uploads/2022/06/Nearshore-Software-Development.jpeg)
 
@@ -17,7 +17,7 @@ print("Hi there!")
 
 ## I'm a FullStack !!
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Tarek-Radwan&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwn21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
 
 
