@@ -17,7 +17,7 @@ print("Hi there!")
 
 ## I'm a FullStack !!
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed_Tarek_Radwan&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Tarek-Radwan&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
 
 
