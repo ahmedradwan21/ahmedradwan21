@@ -17,13 +17,19 @@ print("Hi there!")
 
 ## I'm a FullStack !!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+
+
+
 
 -    I’m currently learning FullStack.
 -    looking to collaborate with other content creators.
 -    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
 -    I'm very very very love programming 🖤
 -    I'm currently learning IT in the EELU university.
+
+
+
 <br>
 <!-- -->
 <p  align="center">
@@ -32,20 +38,25 @@ print("Hi there!")
 
 ## Watch my contributions get eaten by a snake 🐍
  ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-## Languages and Tools: 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<center
-
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwan" /></p>
-<p align="right">
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedradwan21&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed Tarek Radwn" /></p>
+### My Skills and Interests:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS5](https://img.shields.io/badge/CSS5-E34F26?style=for-the-badge&logo=css5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
+<!-- Social media links -->
+### Connect with me:
+[![my email: tara02664@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "tara02664@gmail.com")](mailto:tara02664@gmail.com)
+[![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@ahmedtarek22220")](https://twitter.com/ahmedtarek22220)
+[![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed_tarek_radwan")](https://linkedin.com/in/ahmed_tarek_radwan)
 
-<p align="center">Vistors counter ↖ <br>
-  <img alr="Vistors counter ↖" src="https://profile-counter.glitch.me/Anas-Elgarhy/count.svg"/>
-</p>
+
+
+
+
+
+
+
 
