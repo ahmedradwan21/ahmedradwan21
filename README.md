@@ -48,9 +48,9 @@ print("Hi there!")
 
 <!-- Social media links -->
 ### Connect with me:
-[![my email: tara02664@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "tara02664@gmail.com")](mailto:tara02664@gmail.com)
+[![my email: tara02664@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "@tara02664@gmail.com")](mailto:tara02664@gmail.com)
 [![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@ahmedtarek22220")](https://twitter.com/ahmedtarek22220)
-[![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed_tarek_radwan")](https://linkedin.com/in/ahmed_tarek_radwan)
+[![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://linkedin.com/in/ahmed-tarek-radwan-a142a0230)
 
 
 
