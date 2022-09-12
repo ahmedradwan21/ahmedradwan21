@@ -6,7 +6,7 @@ print("Hi there!")
 </h1>
 <!-- === START === -->
 <!-- -->
-
+<!-- -->
 ### Hi, I'm Ahmed Tarek Radwan 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmedradwan21?label=Follow&style=social)
@@ -29,8 +29,8 @@ print("Hi there!")
 -    I'm very very very love programming 🖤
 -    I'm currently learning IT in the EELU university.
 
-
-
+<!-- -->
+<!-- -->
 <br>
 <!-- -->
 <p  align="center">
@@ -48,14 +48,14 @@ print("Hi there!")
 ![Java Script](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
   
 
-
+<!-- -->
 <!-- Social media links -->
 ### Connect with me:
 [![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "tara02664@gmail.com")](mailto:tara02664@gmail.com)
 [![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@ahmedtarek22220")](https://twitter.com/ahmedtarek22220)
 [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://linkedin.com/in/ahmed-tarek-radwan-a142a0230)
 
-<!-- read me        -->
+<!-- read me  -->
 
 <!-- read me -->
 
