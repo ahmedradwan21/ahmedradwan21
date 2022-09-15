@@ -38,8 +38,7 @@ print("Hi there!")
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Tarek+Radwan.;I+have+experience+in+programming+languages;Like+C%2B%2B%2CJava%2CJavaScript%2CPyhton;But+the+most+important+of+which+is+Java+and+JS."/>
 </p>
 <!-- -->
-<!-- -->
-<!-- -->
+
  ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 ### My Skills and Interests:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
