@@ -20,9 +20,7 @@ print("Hi there!")
 
 <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
 
-<!-- -->
-<!-- -->
-<!-- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 -    I’m currently learning FullStack.
 -    looking to collaborate with other content creators.
