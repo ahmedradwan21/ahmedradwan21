@@ -45,7 +45,6 @@
 ![Java Script](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
   <br>
 
-<!--   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="46%" /> -->
 
 <!-- <br> -->
 <!-- -->
@@ -55,14 +54,4 @@
 [![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@ahmedtarek22220")](https://twitter.com/ahmedtarek22220)
 [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://linkedin.com/in/ahmed-tarek-radwan-a142a0230)
 
-<!-- read me  -->
-<!-- -->
-<!-- read me -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
+  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="" width="46%" />
