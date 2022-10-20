@@ -5,7 +5,7 @@
 <!-- -->
 <!-- -->
 <h1 align="center">Hi 👋, I'm Ahmed Tarek Radwan</h1>
-<h3 align="center"> software Engineer</h3>
+<h3 align="center">(-_-) software Engineer (-_-) </h3>
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmedradwan21?label=Follow&style=social)
 
