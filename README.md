@@ -1,7 +1,7 @@
 <h1>
 
 ```Ruby
-print("Hi there!")
+
 ```
 </h1>
 <!-- === START === -->
@@ -14,11 +14,11 @@ print("Hi there!")
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.cioinsight.com/wp-content/uploads/2022/06/Nearshore-Software-Development.jpeg)
 
-## 👨🏻‍💻 About Me
 
-## I'm a FullStack !!
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="50%" />
+<img align="right" alt="Coding" width="40%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<br>
+
 
 
 
@@ -27,9 +27,7 @@ print("Hi there!")
 -    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
 -    I'm very very very love programming 🖤
 -    I'm currently learning IT in the EELU university.
-<!-- -->
-<!-- -->
-<!-- -->
+<!-- <img align="right" alt="Coding" width="50%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
 <br>
 <!-- -->
 <p  align="center">
@@ -45,8 +43,11 @@ print("Hi there!")
 ![CSS5](https://img.shields.io/badge/CSS5-E34F26?style=for-the-badge&logo=css5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Java Script](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-  
+  <br>
 
+<!--   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="46%" /> -->
+
+<!-- <br> -->
 <!-- -->
 <!-- Social media links -->
 ### Connect with me:
