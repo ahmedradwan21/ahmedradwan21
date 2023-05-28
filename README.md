@@ -52,7 +52,7 @@
 [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://linkedin.com/in/ahmed-tarek-radwan-a142a0230)
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko&position=right)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko&align="right")
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
