@@ -63,7 +63,8 @@
   
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Radwan)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Radwan)](https://github.com/anuraghazra/github-readme-stats)
 
+<figure><embed src="https://wakatime.com/share/@Radwan/ce38e3b0-dfa6-4902-bbb6-7bca3a00475a.svg"></embed></figure>
 
 
