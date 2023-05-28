@@ -54,7 +54,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats&theme=Dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
   
   
