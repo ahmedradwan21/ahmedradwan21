@@ -25,7 +25,6 @@
 -    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
 -    I'm very very very love programming 🖤
 -    I'm currently learning IT in the EELU university.
-<!-- <img align="right" alt="Coding" width="50%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
 <br>
 <!-- -->
 <p  align="center">
@@ -58,5 +57,8 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
+  
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true)
   
   
