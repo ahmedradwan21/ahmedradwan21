@@ -51,7 +51,6 @@
 [![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@ahmedtarek22220")](https://twitter.com/ahmedtarek22220)
 [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://linkedin.com/in/ahmed-tarek-radwan-a142a0230)
 
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="" width="46%" />
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko)
   
