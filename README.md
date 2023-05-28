@@ -53,7 +53,7 @@
 
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="" width="46%" />
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=radical&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
