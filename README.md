@@ -62,7 +62,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true)
   
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Radwan)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<embed src="https://wakatime.com/share/@Radwan/ce38e3b0-dfa6-4902-bbb6-7bca3a00475a.svg"></embed>
 
