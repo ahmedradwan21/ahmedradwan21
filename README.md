@@ -61,4 +61,4 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true)
   
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&hide=contribs,prs)
