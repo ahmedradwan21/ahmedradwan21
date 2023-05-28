@@ -64,6 +64,5 @@
 
 
 
-<figure><embed src="https://wakatime.com/share/@Radwan/ce38e3b0-dfa6-4902-bbb6-7bca3a00475a.svg"></embed></figure>
-
+<embed src="https://wakatime.com/share/@Radwan/ce38e3b0-dfa6-4902-bbb6-7bca3a00475a.svg"></embed>
 
