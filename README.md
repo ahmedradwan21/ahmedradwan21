@@ -21,10 +21,10 @@
 
 
 
--    I’m currently learning FullStack.
+-    I’m currently learning Blockchain.
 -    looking to collaborate with other content creators.
 -    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
--    I'm very very very love programming 🖤
+-    I'm very love programming 🖤
 -    I'm currently learning IT in the EELU university.
 <br>
 <!-- -->
