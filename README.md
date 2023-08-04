@@ -55,10 +55,10 @@
 
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko)
 <!-- <a href="https://wakatime.com/@0521852f-b5d6-4087-a26b-c364eb214a43"><img align="down" src="https://wakatime.com/badge/user/0521852f-b5d6-4087-a26b-c364eb214a43.svg" alt="Total time coded since May 19 2022" /></a> -->  
   
   
