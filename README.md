@@ -25,7 +25,7 @@
 -    looking to collaborate with other content creators.
 -    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
 -    I'm very love programming 🖤
--    I'm currently learning IT in the EELU university.
+-    I'm currently learning in the EELU university.
 <br>
 <!-- -->
 <p  align="center">
