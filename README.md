@@ -5,10 +5,10 @@
 <!-- -->
 <!-- -->
 <!-- -->
-<h1 align="center">Hi 👋, I'm Ahmed Tarek Radwan</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Abd Elnasser</h1>
 <h3 align="center">(-_-) software Engineer (-_-) </h3>
 
-![GitHub followers](https://img.shields.io/github/followers/ahmedradwan21?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/a7med-offical?label=Follow&style=social)
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.cioinsight.com/wp-content/uploads/2022/06/Nearshore-Software-Development.jpeg)
 
@@ -21,28 +21,26 @@
 
 
 
--    I’m currently learning Blockchain.
+-    I’m currently Flutter Developer.
 -    looking to collaborate with other content creators.
--    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
+-    You can shoot me an email at abdelnassera581@gmail.com ! I'll try to respond as soon as I can.
 -    I'm very love programming 🖤
 -    I'm currently learning in the EELU university.
 <br>
 <!-- -->
 <p  align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Tarek+Radwan.;I+have+experience+in+programming+languages;Like+C%2B%2B%2CJava%2CJavaScript%2CPyhton;But+the+most+important+of+which+is+Java+and+JS."/>
+<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Abd+Elnasser;I+have+experience+in+programming+languages;Like+C%2B%2B%2CJava%2CJava%2CPyhton;But+the+most+important+of+which+is+Dart+and+Flutter"/>
 </p>
 <!-- -->
 
  ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 ### My Skills and Interests:
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS5](https://img.shields.io/badge/CSS5-E34F26?style=for-the-badge&logo=css5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Java Script](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   <br>
 
 
@@ -50,8 +48,6 @@
 <!-- -->
 <!-- Social media links -->
 ### Connect with me:
-[![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "tara02664@gmail.com")](mailto:tara02664@gmail.com)
-[![Twitter handel: @anas_elgarhy](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg "@ahmedtarek22220")](https://twitter.com/ahmedtarek22220)
 [![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@ahmed-tarek-radwan-a142a0230")](https://linkedin.com/in/ahmed-tarek-radwan-a142a0230)
 
 
