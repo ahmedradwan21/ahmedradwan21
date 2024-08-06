@@ -21,12 +21,7 @@
 
 
 
--    I’m currently learning Blockchain.
--    looking to collaborate with other content creators.
--    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
--    I'm very love programming 🖤
--    I'm currently learning in the EELU university.
-<br>
+
 <!-- -->
 <p  align="center">
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=Hello%2C+I+am+Ahmed+Tarek+Radwan.;I+have+experience+in+programming+languages;Like+C%2B%2B%2CJava%2CJavaScript%2CPython;But+the+most+important+of+which+is+Java+and+JS."/>
