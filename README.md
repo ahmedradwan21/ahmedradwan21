@@ -10,6 +10,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmedradwan21?label=Follow&style=social)
 
+
+
+-    I’m currently learning Blockchain.
+-    looking to collaborate with other content creators.
+-    You can shoot me an email at tara02664@gmail.com! I'll try to respond as soon as I can.
+-    I'm very love programming 🖤
+-    I'm currently learning in the EELU university.
+<br>
+
+
 <img align="right" alt="Coding" width="40%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <br>
 
