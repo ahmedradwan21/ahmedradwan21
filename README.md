@@ -10,13 +10,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmedradwan21?label=Follow&style=social)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.cioinsight.com/wp-content/uploads/2022/06/Nearshore-Software-Development.jpeg)
 
 
 
 
-<img align="right" alt="Coding" width="40%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-<br>
+
+
 
 
 
