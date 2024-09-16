@@ -74,7 +74,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedradwan21&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/ahmedradwan21?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/ahmedradwan21?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/ahmedradwan21?tab=repositories) --> <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
