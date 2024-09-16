@@ -69,6 +69,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
   <br>
+<h1> 🔥 My Stats : </h1>
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedradwan21&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/ahmedradwan21?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/ahmedradwan21?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+
+
 
 
 <!-- <br> -->
@@ -82,8 +90,6 @@
 
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&Demo=true&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=merko)
 <!-- <a href="https://wakatime.com/@0521852f-b5d6-4087-a26b-c364eb214a43"><img align="down" src="https://wakatime.com/badge/user/0521852f-b5d6-4087-a26b-c364eb214a43.svg" alt="Total time coded since May 19 2022" /></a> -->  
