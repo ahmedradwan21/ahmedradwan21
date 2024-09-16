@@ -1,6 +1,7 @@
-<h1>
- 
-</h1>
+<!--  [![committers.top badge](https://user-badge.committers.top/egypt/ahmedradwan21.svg)](https://user-badge.committers.top/egypt/ahmedradwan21) -->
+ <!-- <br><br> -->
+
+
 <!-- === START === -->
 <!-- -->
 <!-- -->
@@ -13,11 +14,16 @@
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.cioinsight.com/wp-content/uploads/2022/06/Nearshore-Software-Development.jpeg)
 
+**You are the visitor number:**
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ahmedradwan21"></a>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
+</p>
 
 
 
 
-<img align="right" alt="Coding" width="40%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<!-- <img align="right" alt="Coding" width="40%" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/> -->
 <br>
 
 -    I’m currently learning Blockchain.
