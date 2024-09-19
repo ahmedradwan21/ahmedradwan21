@@ -14,10 +14,10 @@
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.cioinsight.com/wp-content/uploads/2022/06/Nearshore-Software-Development.jpeg)
 
-**You are the visitor number:**
+**visitor number:**
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ahmedradwan21"></a>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
+   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" width="100"/>
 </p>
 
 
