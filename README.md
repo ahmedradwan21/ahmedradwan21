@@ -23,7 +23,6 @@ I'm a passionate **Software Engineer** who loves solving complex problems and cr
 
 - 🌍 Based in **Egypt**
 - 💼 I work on backend systems using **Node.js**, **Django** and  **Docker**
-- 🌱 Currently exploring **distributed systems** and **cloud architecture**
 - 🛠️ Actively contributing to open-source projects
 
 ---
