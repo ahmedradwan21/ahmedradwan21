@@ -12,11 +12,11 @@
 </p>
 
 ---
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmedradwan21}/count.svg" /></p> 
 <br>
-</div>
+</div> -->
 ## 🚀 About Me
 
 I'm a passionate **Software Engineer** who loves solving complex problems and creating efficient backend systems. My experience spans various programming languages, tools, and frameworks, and I'm always eager to learn more.
@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** who loves solving complex problems and cr
 
 ---
 
-## 🛠️ My Tech Stack
+🛠️ My Tech Stack
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
