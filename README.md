@@ -58,7 +58,6 @@ Languages
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-2088FF?style=for-the-badge&logo=python&logoColor=white" alt="Java" />
 </p>
 Backend
 <p>
@@ -167,9 +166,6 @@ Intelligent chatbot for healthcare patient support.
 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedradwan21&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedradwan21&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 🐍 Contribution Snake
 <p align="center">
