@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Tarek%20Radwan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20AI%20Integration&descSize=16&descAlignY=55" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Building+Scalable+REST+APIs;Real-Time+Systems+with+Socket.IO;AI-Powered+Backend+Solutions;Node.js+%7C+Express+%7C+Django+%7C+NestJS;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF7B00&center=true&vCenter=true&width=700&lines=Building+Scalable+REST+APIs;Real-Time+Systems+with+Socket.IO;AI-Powered+Backend+Solutions;Node.js+%7C+Express+%7C+Django+%7C+NestJS;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/ahmedradwan21">
@@ -165,12 +165,7 @@ Intelligent chatbot for healthcare patient support.
 </p>
 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedradwan21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedradwan21&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedradwan21&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedradwan21&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Trophies" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedradwan21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedradwan21&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
@@ -200,9 +195,6 @@ Intelligent chatbot for healthcare patient support.
   <a href="https://github.com/ahmedradwan21">
     <img src="https://img.shields.io/badge/GitHub-@ahmedradwan21-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
