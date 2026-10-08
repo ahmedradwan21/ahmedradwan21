@@ -26,7 +26,7 @@
     Backend Software Engineer with production experience building RESTful APIs, real-time systems (Socket.IO), and AI-integrated backends. Comfortable owning features end-to-end — from data modeling to deployment. Currently deepening expertise in TypeScript and NestJS.
 
 👨‍💻 About Me
-yaml
+
 
 name: Ahmed Tarek Radwan
 role: Backend Software Engineer
@@ -47,10 +47,6 @@ focus_areas:
   - Database Architecture
   - Docker & CI/CD
 
-currently_learning:
-  - TypeScript (Production-grade)
-  - NestJS (Enterprise Architecture)
-  - Advanced Docker & DevOps
 
 🛠 Tech Stack
 Languages
@@ -175,11 +171,6 @@ Intelligent chatbot for healthcare patient support.
     <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedradwan21/ahmedradwan21/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-🔥 Currently Building
-
-    E-Commerce API — NestJS + TypeScript + PostgreSQL
-    Dockerizing all legacy projects
-    Advanced System Design — Learning
 
 📫 Let's Connect
 <p align="center">
